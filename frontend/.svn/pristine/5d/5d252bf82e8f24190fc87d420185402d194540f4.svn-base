@@ -1,0 +1,47 @@
+<?php
+
+	 $list = array(
+		'市场部'=>array(
+							array('1','高某','市场部经理','5000'),
+							array('2','罗某','职员','3000'),
+							array('3','周某','职员','2400')
+						),
+		'产品部'=>array(
+							array('1','高某','产品部经理','6000'),
+							array('2','罗某','职员','4000'),
+							array('3','周某','职员','2300')
+						),
+		'财务部'=>array(
+							array('1','高某','财务部经理','6000'),
+							array('2','罗某','职员','4000'),
+							array('3','周某','职员','2300')
+						),
+	);
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+	<?php foreach($list as $key => $value) { ?>
+	<table border="1">
+		<tr>
+			<th colspan="4"><?php echo $key ?>10月份工资</th>
+		</tr>
+		<?php foreach($value as $key1 => $value1) {?>
+		<tr>
+			<?php foreach($value1 as $key2 => $value2) {?>
+			<td><?php echo $value2?></td>
+			<?php } ?>
+		</tr>
+		<?php } ?>
+	</table>
+	<?php } ?>
+</body>
+</html>

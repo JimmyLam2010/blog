@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>����ҳ_������˲��� - һ��վ��webǰ�����֮·��Ů����Ա���˲�����վ</title>
+<meta name="keywords" content="���˲���,������˲���,���˲���ģ��,����" />
+<meta name="description" content="������˲��ͣ���һ��վ��webǰ�����֮·��Ů����Ա������վ���ṩ���˲���ģ�������Դ���صĸ���ԭ����վ��" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/index.css" rel="stylesheet">
+</head>
+<body>
+<header>
+  <div class="logo"><a href="http://www.yangqq.com">������˲���</a></div>
+  <nav>
+    <ul id="starlist">
+      <li><a href="index.html">��վ��ҳ</a></li>
+      <li><a href="about.html">������</a></li>
+      <li><a href="list.html">�����ռ�</a></li>
+      <li><a href="info.html">������</a></li>
+      <li><a href="time.html">ʱ����</a></li>
+      <li><a href="time.html">ʱ����</a></li>
+    </ul>
+  </nav>
+</header>
+<div class="box">
+ <div class="blank"></div>
+ <div class="infosbox">
+    <div class="newsview">
+      <h3 class="news_title">���˲��ͣ������ҵ�С���磡</h3>
+      <div class="bloginfo">
+        <ul>
+          <li class="author"><a href="/">����</a></li>
+          <li class="lmname"><a href="/">ѧ��ֹ��</a></li>
+          <li class="timer">2018-5-13</li>
+          <li class="view">4567���Ķ�</li>
+          <li class="like">8888888</li>
+        </ul>
+      </div>
+      <div class="tags"><a href="/" target="_blank">���˲���</a> &nbsp; <a href="/" target="_blank">С����</a></div>
+      <div class="news_about"><strong>���</strong>���˲��ͣ�������ʲô���Ҹտ�ʼ�Ͱ�������һ�����²�����ĵط���Ҳ���൱��һ��������±���д��һЩ�����Լ�������е�С��С�£�Ҳ�����һЩ��Ƭ�����֡�ÿ�칤���ؼҺ���ܷ����Լ�����վ��һ���������֣�һ��дд���¡�</div>
+      <div class="news_con"> ���ĺܳ�����¼���Ҳ��ͽ�վ�������ڵĹ��̣������Ҵӱ�ҵ�����ڵ�һ��״̬����л�����Ķ�������㻹��ѧ����Ҳ�����ܴӴ����У��ҵ������������Ƶĵط���������Ѿ����������Լ��Ĳ��ͣ����룬�㲢û�����ǵ����������˲��͵ĳ��԰ɣ�<br>
+        <br>
+        �ҵĸ��˲����Ѿ���վ��8���ʱ���ˣ��������Ȱ���һֱ����ֻ��δ���������ѧ������Ǽ��꣬�ǻ���ǳ�����QQ�ռ䣬�������ҵ����ѻ�������ԼȥѧУ���������Լ��Ŀռ䡣ϵ���и��������ռ����÷ǳ�Ư����ʲô�������������������ֲ�����������Ů����Ľ�ò����ˡ�����Լ��������һ��ȥͨ��Ū�ռ䣬���Ͽ����ҵ��ܶ���ѵ�flash��Դ���������֣���Ҳ�ǵ�һ�νӴ�js��֪�������������һ����ַ���޸�һ�����ݣ����ܵ���һЩ����������Ȼ����Լ�QQ�ռ�Ū��ƯƯ�����ģ�������Լ���������ȡ��Ҽǵ�08����𣬵ڶ������ϣ��������ҵļ����˻�������������װ��ռ��أ�<br>
+    
+        <br>
+        �����ռ��շ���ĿҲ���ˣ��ٷ�©��Ҳ�޸��ˣ������ٽ���ҵ����Ҫæ������ҵ��ƣ���û�ٴ���QQ�ռ䡣��֪�����ڵľ������������ǿ϶�û������һ�����Ρ����ǻ����Ҳ�Ƿ��׷�磬ϲ�������⣬ϲ����������վ���뿴������С���磬���Ҹ���ѧ����һ������������վ���ǻ�����������Ϊ���������������վ���ٶ����˺�Щ��Ҳû�С�<br>
+        <br>
+</div>
+<p class="diggit"><a href="JavaScript:makeRequest('/e/public/digg/?classid=3&amp;id=19&amp;dotop=1&amp;doajax=1&amp;ajaxarea=diggnum','EchoReturnedText','GET','');"> ����Ŷ�� </a>(<b id="diggnum"><script type="text/javascript" src="/e/public/ViewClick/?classid=2&amp;id=20&amp;down=5"></script>13</b>)</p>
+    </div>
+    
+    <div class="nextinfo">
+      <p>��һƪ��<a href="/news/life/2018-03-13/804.html">��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��?</a></p>
+      <p>��һƪ��<a href="/news/life/">�����б�</a></p>
+    </div>
+    <div class="otherlink">
+      <h2>�������</h2>
+      <ul>
+        <li><a href="/download/div/2018-04-22/815.html" title="html5���˲���ģ�塶��ɫ�����">html5���˲���ģ�塶��ɫ�����</a></li>
+        <li><a href="/download/div/2018-04-18/814.html" title="html5���˲���ģ�����⡶���š�">html5���˲���ģ�����⡶���š�</a></li>
+        <li><a href="/download/div/2018-03-18/807.html" title="html5���˲���ģ�����⡶��ʿ��">html5���˲���ģ�����⡶��ʿ��</a></li>
+        <li><a href="/download/div/2018-02-22/798.html" title="html5ʱ�и��˲���ģ��-�����Ż���">html5ʱ�и��˲���ģ��-�����Ż���</a></li>
+        <li><a href="/download/div/2017-09-08/789.html" title="html5���˲���ģ�����⡶����ʱ���ᡷ">html5���˲���ģ�����⡶����ʱ���ᡷ</a></li>
+        <li><a href="/download/div/2017-07-16/785.html" title="�ŵ���˲���ģ�塶����ī����">�ŵ���˲���ģ�塶����ī����</a></li>
+        <li><a href="/download/div/2017-07-13/783.html" title="�ŵ���-���˲���ģ��">�ŵ���-���˲���ģ��</a></li>
+        <li><a href="/download/div/2015-06-28/748.html" title="���˲��͡��ݸ�Ѱ�Ρ����ֻ���ģ��">���˲��͡��ݸ�Ѱ�Ρ����ֻ���ģ��</a></li>
+        <li><a href="/download/div/2015-04-10/746.html" title="�����Ʒ����������С�׸��˲���ģ��">�����Ʒ����������С�׸��˲���ģ��</a></li>
+        <li><a href="/jstt/bj/2015-01-09/740.html" title="���Ҵ���Щ�꡿�ܽ���˲��;����������ꡭ">���Ҵ���Щ�꡿�ܽ���˲��;����������ꡭ</a></li>
+      </ul>
+    </div>
+    <div class="news_pl">
+      <h2>��������</h2>
+      <ul>
+        <div class="gbko"> </div>
+      </ul>
+    </div>
+  </div> 
+  <aside>
+    <div class="ztbox">
+      <ul>
+        <li> <a href="#" title="���˲���ģ�� ( 38 )">���˲���ģ�� ( 38 )</a></li>
+        <li> <a href="#" title="����html5ģ�� ( 12 )">����html5ģ�� ( 12 )</a></li>
+        <li><a href="#" title="�ĵñʼ� ( 51 )">�ĵñʼ� ( 51 )</a></li>
+        <li><a href="#" title="CSS3|Html5 ( 63 )">CSS3|Html5 ( 63 )</a></li>
+        <li><a href="#" title="JS����ʵ�� ( 10 )">JS����ʵ�� ( 10 )</a></li>
+      </ul>
+    </div>
+    <div class="paihang">
+      <h2>�������</h2>
+      <ul>
+        <li><a href="#" target="_blank" title="���˲��ͣ������ҵ�С���磡">���˲��ͣ������ҵ�С���磡</a></li>
+        <li><a href="#" target="_blank" title="��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��?">��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��</a></li>
+        <li><a href="#" target="_blank" title="Come on,�ж�������!���Ǻ�ʱ����һ������!">Come on,�ж�������!���Ǻ�ʱ����һ������!</a></li>
+        <li><a href="#" target="_blank" title="������һ���,�������߳�����">������һ���,�������߳�����</a></li>
+        <li><a href="#" target="_blank" title="�����ǿӣ���Ҳ��Ҫ������">�����ǿӣ���Ҳ��Ҫ������</a></li>
+        <li><a href="#" target="_blank" title="Ů����Աְҵ���ĸ���η�չ��">Ů����Աְҵ���ĸ���η�չ��</a></li>
+        <li><a href="#" target="_blank" title="���˲��ͣ������ҵ�С���磡">���˲��ͣ������ҵ�С���磡</a></li>
+        <li><a href="#" target="_blank" title="��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��?">��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��</a></li>
+        <li><a href="#" target="_blank" title="Ů����Աְҵ���ĸ���η�չ��">Ů����Աְҵ���ĸ���η�չ��</a></li>
+      </ul>
+    </div>
+    <div class="paihang">
+      <h2>վ���Ƽ�</h2>
+      <ul>
+        <li><a href="#" target="_blank" title="���˲��ͣ������ҵ�С���磡">���˲��ͣ������ҵ�С���磡</a></li>
+        <li><a href="#" target="_blank" title="��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��?">��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��</a></li>
+        <li><a href="#" target="_blank" title="Come on,�ж�������!���Ǻ�ʱ����һ������!">Come on,�ж�������!���Ǻ�ʱ����һ������!</a></li>
+        <li><a href="#" target="_blank" title="������һ���,�������߳�����">������һ���,�������߳�����</a></li>
+        <li><a href="#" target="_blank" title="�����ǿӣ���Ҳ��Ҫ������">�����ǿӣ���Ҳ��Ҫ������</a></li>
+        <li><a href="#" target="_blank" title="Ů����Աְҵ���ĸ���η�չ��">Ů����Աְҵ���ĸ���η�չ��</a></li>
+        <li><a href="#" target="_blank" title="���˲��ͣ������ҵ�С���磡">���˲��ͣ������ҵ�С���磡</a></li>
+        <li><a href="#" target="_blank" title="��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��?">��Ϊһ�����ʦ,����⵽�������Ƿ�������Լ���ԭ��</a></li>
+        <li><a href="#" target="_blank" title="Ů����Աְҵ���ĸ���η�չ��">Ů����Աְҵ���ĸ���η�չ��</a></li>
+      </ul>
+    </div>
+    <div class="paihang">
+      <h2>��������</h2>
+      <ul>
+        <li><a href="http://www.yangqq.com">������˲���</a></li>
+        <li><a href="http://www.yangqq.com">���˲���</a></li>
+        <li><a href="http://www.yangqq.com">���˲���</a></li>
+      </ul>
+    </div>
+  </aside>
+</div>
+ <div class="blank"></div>
+<footer>
+  <p>Design by <a href="http://www.yangqq.com" target="_blank">������˲���</a> </p>
+  <p>�����ţ�<a href="/">��ICP��11002373��-1</a></p>
+</footer>
+</body>
+</html>
